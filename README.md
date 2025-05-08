@@ -52,11 +52,24 @@ To run a similar project or clone the setup, follow these steps:
 
 ## Screenshots
 
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/sisucursos.com.png)
 *The homepage showcasing the available courses and registration options.*
 
-![Course Page](screenshots/course-page.png)
+![Course Page](screenshots/sisucursos.com_produto.png)
 *Example of a course page with course content and purchase options.*
+
+![Signup Page](screenshots/signup.png)
+*Signup page where users can register for the courses.*
+
+![Login Page](screenshots/login.png)
+*Login page for returning users to access their courses.*
+
+![Devices Page](screenshots/visaotodosdevices.png)
+*The website’s responsiveness across various devices.*
+
+![Course Details Page](screenshots/cursopagina.png)
+*Detailed view of a specific course with content, pricing, and purchase options.*
+
 
 ## Future Plans
 
