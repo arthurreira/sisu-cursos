@@ -58,7 +58,7 @@ To run a similar project or clone the setup, follow these steps:
 ![Course Page](screenshots/sisucursos.com_produto.png)
 *Example of a course page with course content and purchase options.*
 
-![Signup Page](screenshots/signup.png)
+![Singup Page](screenshots/Signup.png)
 *Signup page where users can register for the courses.*
 
 ![Login Page](screenshots/login.png)
