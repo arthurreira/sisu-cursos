@@ -58,10 +58,10 @@ To run a similar project or clone the setup, follow these steps:
 ![Course Page](screenshots/sisucursos.com_produto.png)
 *Example of a course page with course content and purchase options.*
 
-![Singup Page](screenshots/Signup.png)
+![Singup Page](screenshots/cadastro.png)
 *Signup page where users can register for the courses.*
 
-![Login Page](screenshots/Login.png)
+![Login Page](screenshots/login.png)
 *Login page for returning users to access their courses.*
 
 ![Devices Page](screenshots/visaotodosdevices.png)
