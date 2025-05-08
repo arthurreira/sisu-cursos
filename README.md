@@ -66,8 +66,8 @@ To run a similar project or clone the setup, follow these steps:
 
 ## Contributors
 
-- **[Your Name]**: Co-founder and lead developer of the website.
-- **[Teacher's Name]**: Co-founder and course content creator.
+- **[Arthur Ferreira Miranda]**: Co-founder and lead developer of the website.
+- **[Douglas Pereira Freitas]**: Co-founder and course content creator.
 
 ## License
 
