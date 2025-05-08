@@ -61,7 +61,7 @@ To run a similar project or clone the setup, follow these steps:
 ![Singup Page](screenshots/Signup.png)
 *Signup page where users can register for the courses.*
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 *Login page for returning users to access their courses.*
 
 ![Devices Page](screenshots/visaotodosdevices.png)
